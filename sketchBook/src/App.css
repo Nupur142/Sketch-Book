@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(2, 162, 174);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: cursive;
+}
+h1{
+  text-align: center;
+}
+.toolbox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.flex{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap : 10px;
+  margin-right: 50px;
+}
+canvas{
+  background-color: rgb(67, 66, 66);
+  border-radius: 20px;
+}
